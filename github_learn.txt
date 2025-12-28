@@ -1,0 +1,144 @@
+    1  pwd
+    2  git init
+    3  git add .
+    4  git init
+    5  git add .
+    6  git commit -m "Initial Commit"
+    7  git config --global user.email "singhal.shivam336@gmail.com"
+    8  git config --global user.name "Shivam336"
+    9  git commit -m "Initial Commit"
+   10  git remote add origin https://github.com/Shivam336/elms.git
+   11  git branch -M main
+   12  git push -u origin main
+   13  git push -u origin main
+   14  git remote set-url origin https://Shivam336@github.com/Shivam336/elms.git
+   15  ssh-keygen -t rsa -b 4096 -C "singhal.shivam336@gmail.com"
+   16  ssh -T git@github.com
+   17  ssh -T git@github.com
+   18  git config -l
+   19  git config -l
+   20  git init
+   21  git status
+   22  git add .
+   23  git commit -m "Initial Commit"
+   24  git remote add origin https://github.com/Shivam336/eta.git
+   25  git branch -M main
+   26  git push -u origin main
+   27  git init
+   28  git status
+   29  git add .
+   30  git commit -m "Initial Commit"
+   31  git remote add origin https://github.com/Shivam336/jwt.git
+   32  git push -u origin master
+   33  npm create vite@latest react-crash-2024
+   34  npm create vite@latest react-crash-2024
+   35  cd react-crash-2024
+   36  code .
+   37  code .
+   38  npm create vite@latest my-project
+   39  code .
+   40  cd my-project
+   41  npm install -D tailwindcss@3 postcss autoprefixer
+   42  npx tailwindcss init -p
+   43  npm run dev
+   44  npm run dev
+   45  git init
+   46  git checkout -b main
+   47  git status
+   48  git remote -v
+   49  git remote add origin https://github.com/Shivam336/gitLearn.git
+   50  git remote -v
+   51  git status
+   52  git commit -a -m "Initial Commit"
+   53  git add .
+   54  git status
+   55  git commit -m "Initial Commit 2"
+   56  git push -u origin main
+   57  git checkout -b feature/test
+   58  git status
+   59  git add .
+   60  git commit -m "Initial Commit for test branch"
+   61  git push -u origin feature/test
+   62  git checkout main
+   63  git status
+   64  git add .
+   65  git commit -m "Main 2"
+   66  git push
+   67  git checkout feature/test
+   68  git reabase main
+   69  git rebase main
+   70  git reabase main
+   71  git checkout main
+   72  git rebase --abort
+   73  git checkout main
+   74  git rebase feature/test
+   75  git rebase --abort
+   76  git status
+   77  git push
+   78  git rebase feature/test
+   79  git rebase --abort
+   80  git rebase feature/test
+   81  gi rebase --continue
+   82  git rebase --continue
+   83  git status
+   84  git rebase --abort
+   85  git rebase feature/test
+   86  git reabse --abort
+   87  git rebase --abort
+   88  git rebase feature/test
+   89  git status
+   90  git add .
+   91  git commit -m "Resolve conflict"
+   92  git reabse --abort
+   93  git rebase --abort
+   94  git status
+   95  git rebase feature/test
+   96  git rebase feature/test
+   97  git status
+   98  git rebase --continue
+   99  git add .
+  100  git rebase --continue
+  101  git push
+  102  git pull
+  103  git status
+  104  git add .
+  105  git status
+  106  git commit -m "resolve conflict"
+  107  git status
+  108  git push
+  109  git checkout feature/test
+  110  git pull
+  111  git rebase main
+  112  git status
+  113  git push
+  114  git status
+  115  git status
+  116  git add .
+  117  git commit -m "First Test Commit"
+  118  git push
+  119  git checkout main
+  120  git status
+  121  git add .
+  122  git commit -m "First main commit"
+  123  git push
+  124  git checkout feature/test
+  125  git rebase main
+  126  git status
+  127  git add .
+  128  git status
+  129  git rebase --continue
+  130  git status
+  131  git push
+  132  git pull
+  133  git status
+  134  git add .
+  135  git status
+  136  git commit -m "Resolving conflict after reabaseing and during pulling"
+  137  git push
+  138  git checkout main
+  139  git merge feature/test
+  140  git status
+  141  git push
+  142  git pull
+  143  history
+  144  history > github_learn.txt
